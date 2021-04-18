@@ -5,5 +5,5 @@ export default {
   title: 'InputOutputDate',
 };
 export const InputOutputDateField = () => (
-  <InputDate placeholder="date" value="2020-04-10" />
+  <InputDate placeholder="date" value="2021-04-10" />
 );

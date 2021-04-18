@@ -10,8 +10,8 @@ export default {
 export const progressBar = () => {
   return (
     <ProgressBar
-      startDate={text('Start date', '2020-03-03')}
-      currentDate={text('Current date', '2020-03-21')}
+      startDate={text('Start date', '2021-03-03')}
+      currentDate={text('Current date', '2021-03-21')}
       stages={[
         { name: 'seeding', duration: number('Seeding duration', 3) },
         {

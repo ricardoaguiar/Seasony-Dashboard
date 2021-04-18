@@ -5,8 +5,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.2",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -14,8 +14,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "75",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -23,8 +23,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "6.0",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -32,8 +32,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "740",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -41,8 +41,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-11 00:00:00",
-      "update_at": "2020-11-11 00:00:00",
+      "created_at": "2021-04-19 00:00:00",
+      "update_at": "2021-04-19 00:00:00",
       "deletion_at": null
     },
     {
@@ -50,8 +50,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.5",
-      "created_at": "2020-11-11 06:00:00",
-      "update_at": "2020-11-11 06:00:00",
+      "created_at": "2021-04-19 06:00:00",
+      "update_at": "2021-04-19 06:00:00",
       "deletion_at": null
     },
     {
@@ -59,8 +59,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "77",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -68,8 +68,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.1",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -77,8 +77,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "750",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -86,8 +86,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -95,8 +95,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.5",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -104,8 +104,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "77",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -113,8 +113,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -122,8 +122,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "750",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -131,8 +131,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "499",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -140,8 +140,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.4",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -149,8 +149,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "77",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -158,8 +158,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -167,8 +167,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "750",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -176,8 +176,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "499",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -185,8 +185,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.4",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -194,8 +194,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "78",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -203,8 +203,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.4",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -212,8 +212,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "730",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -221,8 +221,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -230,8 +230,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "21.4",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -239,8 +239,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "78",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -248,8 +248,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.4",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -257,8 +257,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "740",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -266,8 +266,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -275,8 +275,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "22.1",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -284,8 +284,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "71",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -293,8 +293,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.1",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -302,8 +302,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "720",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -311,8 +311,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "499",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -320,8 +320,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "22.9",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -329,8 +329,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "74",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -338,8 +338,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -347,8 +347,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "730",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -356,8 +356,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "498",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -365,8 +365,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "21.2",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -374,8 +374,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "78",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -383,8 +383,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.1",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -392,8 +392,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "730",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -401,8 +401,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-10 00:00:00",
-      "update_at": "2020-11-10 00:00:00",
+      "created_at": "2021-04-15 00:00:00",
+      "update_at": "2021-04-17 00:00:00",
       "deletion_at": null
     },
     {
@@ -410,8 +410,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.7",
-      "created_at": "2020-11-10 06:00:00",
-      "update_at": "2020-11-10 06:00:00",
+      "created_at": "2021-04-15 06:00:00",
+      "update_at": "2021-04-17 06:00:00",
       "deletion_at": null
     },
     {
@@ -419,8 +419,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "78",
-      "created_at": "2020-11-10 06:00:00",
-      "update_at": "2020-11-10 06:00:00",
+      "created_at": "2021-04-15 06:00:00",
+      "update_at": "2021-04-17 06:00:00",
       "deletion_at": null
     },
     {
@@ -428,8 +428,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.3",
-      "created_at": "2020-11-10 06:00:00",
-      "update_at": "2020-11-10 06:00:00",
+      "created_at": "2021-04-15 06:00:00",
+      "update_at": "2021-04-17 06:00:00",
       "deletion_at": null
     },
     {
@@ -437,8 +437,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "737",
-      "created_at": "2020-11-10 06:00:00",
-      "update_at": "2020-11-10 06:00:00",
+      "created_at": "2021-04-15 06:00:00",
+      "update_at": "2021-04-17 06:00:00",
       "deletion_at": null
     },
     {
@@ -446,8 +446,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-10 06:00:00",
-      "update_at": "2020-11-10 06:00:00",
+      "created_at": "2021-04-15 06:00:00",
+      "update_at": "2021-04-17 06:00:00",
       "deletion_at": null
     },
     {
@@ -455,8 +455,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "23.1",
-      "created_at": "2020-11-10 12:00:00",
-      "update_at": "2020-11-10 12:00:00",
+      "created_at": "2021-04-15 12:00:00",
+      "update_at": "2021-04-17 12:00:00",
       "deletion_at": null
     },
     {
@@ -464,8 +464,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "80",
-      "created_at": "2020-11-10 12:00:00",
-      "update_at": "2020-11-10 12:00:00",
+      "created_at": "2021-04-15 12:00:00",
+      "update_at": "2021-04-17 12:00:00",
       "deletion_at": null
     },
     {
@@ -473,8 +473,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "8.3",
-      "created_at": "2020-11-10 12:00:00",
-      "update_at": "2020-11-10 12:00:00",
+      "created_at": "2021-04-15 12:00:00",
+      "update_at": "2021-04-17 12:00:00",
       "deletion_at": null
     },
     {
@@ -482,8 +482,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "800",
-      "created_at": "2020-11-10 12:00:00",
-      "update_at": "2020-11-10 12:00:00",
+      "created_at": "2021-04-15 12:00:00",
+      "update_at": "2021-04-17 12:00:00",
       "deletion_at": null
     },
     {
@@ -491,8 +491,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "550",
-      "created_at": "2020-11-10 12:00:00",
-      "update_at": "2020-11-10 12:00:00",
+      "created_at": "2021-04-15 12:00:00",
+      "update_at": "2021-04-17 12:00:00",
       "deletion_at": null
     },
     {
@@ -500,8 +500,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "24.1",
-      "created_at": "2020-11-10 18:00:00",
-      "update_at": "2020-11-10 18:00:00",
+      "created_at": "2021-04-15 18:00:00",
+      "update_at": "2021-04-17 18:00:00",
       "deletion_at": null
     },
     {
@@ -509,8 +509,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "76",
-      "created_at": "2020-11-10 18:00:00",
-      "update_at": "2020-11-10 18:00:00",
+      "created_at": "2021-04-15 18:00:00",
+      "update_at": "2021-04-17 18:00:00",
       "deletion_at": null
     },
     {
@@ -518,8 +518,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.6",
-      "created_at": "2020-11-10 18:00:00",
-      "update_at": "2020-11-10 18:00:00",
+      "created_at": "2021-04-15 18:00:00",
+      "update_at": "2021-04-17 18:00:00",
       "deletion_at": null
     },
     {
@@ -527,8 +527,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "760",
-      "created_at": "2020-11-10 18:00:00",
-      "update_at": "2020-11-10 18:00:00",
+      "created_at": "2021-04-15 18:00:00",
+      "update_at": "2021-04-17 18:00:00",
       "deletion_at": null
     },
     {
@@ -536,8 +536,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-10 18:00:00",
-      "update_at": "2020-11-10 18:00:00",
+      "created_at": "2021-04-15 18:00:00",
+      "update_at": "2021-04-17 18:00:00",
       "deletion_at": null
     },
     {
@@ -545,8 +545,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "23.1",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -554,8 +554,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "80",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -563,8 +563,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "8.3",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -572,8 +572,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "800",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -581,8 +581,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "550",
-      "created_at": "2020-11-12 00:00:00",
-      "update_at": "2020-11-12 00:00:00",
+      "created_at": "2021-04-20 00:00:00",
+      "update_at": "2021-04-20 00:00:00",
       "deletion_at": null
     },
     {
@@ -590,8 +590,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "23.8",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -599,8 +599,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "79",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -608,8 +608,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -617,8 +617,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "700",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -626,8 +626,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-12 06:00:00",
-      "update_at": "2020-11-12 06:00:00",
+      "created_at": "2021-04-20 06:00:00",
+      "update_at": "2021-04-20 06:00:00",
       "deletion_at": null
     },
     {
@@ -635,8 +635,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.1",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -644,8 +644,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "70",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -653,8 +653,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.3",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -662,8 +662,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "700",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -671,8 +671,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-12 12:00:00",
-      "update_at": "2020-11-12 12:00:00",
+      "created_at": "2021-04-20 12:00:00",
+      "update_at": "2021-04-20 12:00:00",
       "deletion_at": null
     },
     {
@@ -680,8 +680,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.1",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -689,8 +689,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "70",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -698,8 +698,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.3",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -707,8 +707,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "700",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -716,8 +716,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-12 18:00:00",
-      "update_at": "2020-11-12 18:00:00",
+      "created_at": "2021-04-20 18:00:00",
+      "update_at": "2021-04-20 18:00:00",
       "deletion_at": null
     },
     {
@@ -725,8 +725,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.3",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -734,8 +734,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "68",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -743,8 +743,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.2",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -752,8 +752,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "710",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -761,8 +761,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 00:00:00",
-      "update_at": "2020-11-13 00:00:00",
+      "created_at": "2021-04-21 00:00:00",
+      "update_at": "2021-04-21 00:00:00",
       "deletion_at": null
     },
     {
@@ -770,8 +770,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "20.3",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -779,8 +779,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "68",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -788,8 +788,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.2",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -797,8 +797,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "710",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -806,8 +806,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 06:00:00",
-      "update_at": "2020-11-13 06:00:00",
+      "created_at": "2021-04-21 06:00:00",
+      "update_at": "2021-04-21 06:00:00",
       "deletion_at": null
     },
     {
@@ -815,8 +815,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "23.1",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -824,8 +824,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "77",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -833,8 +833,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.4",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -842,8 +842,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "710",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -851,8 +851,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 12:00:00",
-      "update_at": "2020-11-13 12:00:00",
+      "created_at": "2021-04-21 12:00:00",
+      "update_at": "2021-04-21 12:00:00",
       "deletion_at": null
     },
     {
@@ -860,8 +860,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "22.3",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -869,8 +869,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "70",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -878,8 +878,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -887,8 +887,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "701",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -896,8 +896,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-13 18:00:00",
-      "update_at": "2020-11-13 18:00:00",
+      "created_at": "2021-04-21 18:00:00",
+      "update_at": "2021-04-21 18:00:00",
       "deletion_at": null
     },
     {
@@ -905,8 +905,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "1",
       "reading_value": "22.3",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -914,8 +914,8 @@
       "fk_batch_id": "2",
       "fk_material_id": "1",
       "reading_value": "21.3",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -923,8 +923,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "2",
       "reading_value": "70",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -932,8 +932,8 @@
       "fk_batch_id": "2",
       "fk_material_id": "2",
       "reading_value": "71",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -941,8 +941,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -950,8 +950,8 @@
       "fk_batch_id": "2",
       "fk_material_id": "3",
       "reading_value": "7.0",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -959,8 +959,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "4",
       "reading_value": "701",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -968,8 +968,8 @@
       "fk_batch_id": "2",
       "fk_material_id": "4",
       "reading_value": "720",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -977,8 +977,8 @@
       "fk_batch_id": "1",
       "fk_material_id": "5",
       "reading_value": "500",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     },
     {
@@ -986,8 +986,8 @@
       "fk_batch_id": "2",
       "fk_material_id": "5",
       "reading_value": "499",
-      "created_at": "2020-11-14 00:00:00",
-      "update_at": "2020-11-14 00:00:00",
+      "created_at": "2021-04-22 00:00:00",
+      "update_at": "2021-04-22 00:00:00",
       "deletion_at": null
     }
   ]

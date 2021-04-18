@@ -27,8 +27,8 @@ export const Dashboard = () => {
   const showWaterDetails = action('open water level details page');
   const statusHarvestDayleft = number('days til harvest', 3);
   const statusProjDayLeft = number('days til end', 10);
-  const statusStartDate = text('production start date', '11/04/2020');
-  const statusEndDate = text('production end date', '23/04/2020');
+  const statusStartDate = text('production start date', '11/04/2021');
+  const statusEndDate = text('production end date', '23/04/2021');
   const statusStage = text('current stage', 'seeding');
   const statusDayCount = number('day stage', 1);
   return (
