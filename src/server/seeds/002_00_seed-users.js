@@ -39,6 +39,15 @@ exports.seed = function(knex) {
           deleted_at: null,
           uid: '2i3t3qGvMbQAhU2lCPirgIFii742',
         },
+        {
+          id: '5',
+          name: 'Demo',
+          email: 'demo@mail.com',
+          created_at: '2021-04-17- 21:03:55',
+          updated_at: '2021-01-01- 21:03:55',
+          deleted_at: null,
+          uid: 'eunNmAnq1fOimvyP3sLrSr3By2E3',
+        },
       ]);
     });
 };
